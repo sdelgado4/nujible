@@ -355,7 +355,8 @@ header .intro-text .skills {
 .app_store_div{
 	border-top:1px solid #fff;
 }
-.app_store_download button{
+.app_store_download button,
+.app_store_download a{
     border-radius: 4px;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
@@ -370,6 +371,9 @@ header .intro-text .skills {
     padding: 10px 16px;
 	 width: 220px;
 	 height: 60px;
+}
+.app_store_download a{
+        line-height: 36px;
 }
 .app_store_top{
 	width:100%;
