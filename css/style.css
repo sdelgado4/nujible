@@ -758,7 +758,10 @@ section h2 {
     margin: 0;
     font-size: 3em;
 }
-
+.contact-email h5{
+	margin-top:20px;
+	margin-bottom : 30px;
+}
 section.success {
     color: #fff;
     background: #18bc9c;
