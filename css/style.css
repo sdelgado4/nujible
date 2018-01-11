@@ -287,6 +287,9 @@ header .intro-text .skills {
 	font-style:normal;
 	text-transform: lowercase;
 }
+.contct-mail-label{
+	text-transform: lowercase;
+}
 .mar_bot_top_ten{
 	margin:10px 0;
 }
