@@ -285,7 +285,6 @@ header .intro-text .skills {
 .section_heading .main_bold{
 	font-weight:600;
 	font-style:normal;
-	text-transform: lowercase;
 }
 .contct-mail-label{
 	text-transform: lowercase;
